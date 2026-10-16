@@ -17,7 +17,6 @@ I'm a software engineer in Cairo, and a talented learner: I pick things up fast 
 | NutqAI | My graduation project: Egyptian Arabic speech practice for kids, scored at the phoneme level. |
 | Atlas | An AI career mentor that finds your tech track and plans how to learn it. 1st place, Leaders of Tomorrow. |
 | Healthica | A smart-band health monitor with on-device glucose prediction. 2nd place, Banha Hackathon. |
-| [Sonora](https://github.com/Tu2525/sonora) | A native music streaming client in Rust and GPUI. |
 | [OpenCrosshair](https://github.com/Tu2525/OpenCrosshair) | A crosshair overlay for Windows games, one 7 MB exe. |
 | [The Roast Master](https://github.com/Tu2525/cf_ai_TheRoastMaster) | A webcam roast bot on a fully serverless Cloudflare stack. |
 
