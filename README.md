@@ -1,6 +1,6 @@
 # Hi, I'm Tarek
 
-I'm a software engineer in Cairo, and a talented learner: I pick things up fast and I like using them straight away. I just make stuff. The last few years have been Python, Flutter, TypeScript and ML, plus a lot of backend and some embedded C and C++. Most recently I picked up Rust, and a couple of months in it's already behind a few of my projects.
+I'm a talented learner and currently larping as a software engineer from Cairo, I pick things up fast and I like using them straight away. I just like to make stuff. The last few years have been Python, Flutter, TypeScript and ML, plus a lot of backend and some embedded C and C++. Most recently I picked up Rust, and a couple of months in it's already behind a few of my projects.
 
 ## What I do
 
