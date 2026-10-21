@@ -18,13 +18,21 @@ I'm a talented learner and currently larping as a software engineer from Cairo, 
 | Atlas | An AI career mentor that finds your tech track and plans how to learn it. 1st place, Leaders of Tomorrow. |
 | Healthica | A smart-band health monitor with on-device glucose prediction. 2nd place, Banha Hackathon. |
 | [OpenCrosshair](https://github.com/Tu2525/OpenCrosshair) | A crosshair overlay for Windows games, one 11.3 MB exe. |
+| [arne](https://github.com/Tu2525/arne) | Auto route and effort: sends each prompt to Haiku, Sonnet or Opus at a suitable effort and prices switching before you commit. |
+| safi | A small agent harness for local models, built task by task through reviewed PRs. |
+| [Sonora](https://github.com/sonorahq/sonora) | Open source Rust music client. Four merged PRs, including Spotify Connect and Jam support. |
 | [The Roast Master](https://github.com/Tu2525/cf_ai_TheRoastMaster) | A webcam roast bot on a fully serverless Cloudflare stack. |
 
 More, with write-ups, at [tu2525.github.io](https://tu2525.github.io).
 
 ## Open source
 
-- [librespot#1786](https://github.com/librespot-org/librespot/pull/1786): merged a fix so the core passes on dealer messages that carry plain JSON. librespot is the open-source Spotify client library that a lot of third-party players are built on, and it's what Sonora uses.
+- **[Sonora](https://github.com/sonorahq/sonora)** (native Spotify client, Rust and GPUI): merged [Spotify Connect device support](https://github.com/sonorahq/sonora/pull/895), [instant sync of likes made in other Spotify apps](https://github.com/sonorahq/sonora/pull/905), [joining, starting and sharing Jams](https://github.com/sonorahq/sonora/pull/934) and [autoplay on by default](https://github.com/sonorahq/sonora/pull/935). Right-to-left text rendering is open in [Sonora](https://github.com/sonorahq/sonora/pull/880) and [gpui](https://github.com/sonorahq/gpui/pull/18).
+- **[librespot](https://github.com/librespot-org/librespot)** (the open-source Spotify client library): merged [#1786](https://github.com/librespot-org/librespot/pull/1786) so the core passes on dealer messages that carry plain JSON, and opened [#1804](https://github.com/librespot-org/librespot/pull/1804) documenting Spotify's Jam endpoints.
+- **[spotifast](https://github.com/crmne/spotifast)**: opened [#935](https://github.com/crmne/spotifast/pull/935) to start, share and leave a Jam from the device picker.
+- **[MeasureIt_ARCH](https://github.com/kevancress/MeasureIt_ARCH)** (Blender drafting addon): opened [#309](https://github.com/kevancress/MeasureIt_ARCH/pull/309) fixing dimension edit overrides.
+- **[winget-pkgs](https://github.com/microsoft/winget-pkgs)**: [OpenCrosshair 0.5.6](https://github.com/microsoft/winget-pkgs/pull/449357) is up for review so it can be installed with `winget`.
+- Earlier team work: [SplitVCS](https://github.com/Star-Plus/SplitVCS) (image SHA-1 hashing) and [Atlas-PPS](https://github.com/Pixels-PPS/Atlas-PPS) (backend and chat history).
 
 ## Background
 
