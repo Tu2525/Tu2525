@@ -16,7 +16,7 @@ I'm a talented learner and currently larping as a software engineer from Cairo, 
 | [Fraud detection](https://github.com/Tu2525/DEPIGrad) | A classifier that explains its decisions in plain English. FastAPI, Svelte, Dockerized. |
 | NutqAI | My graduation project: Egyptian Arabic speech practice for kids, scored at the phoneme level. |
 | Atlas | An AI career mentor that finds your tech track and plans how to learn it. 1st place, Leaders of Tomorrow. |
-| Healthica | A smart-band health monitor with on-device glucose prediction. 2nd place, Banha Hackathon. |
+| Healthica | A smart-band health monitor with on-device glucose prediction. 1st place, YLF Hackathon 2026. Also built for Banha Hackathon 2025. |
 | [OpenCrosshair](https://github.com/Tu2525/OpenCrosshair) | A crosshair overlay for Windows games, one 11.3 MB exe. |
 | [arne](https://github.com/Tu2525/arne) | Auto route and effort: sends each prompt to Haiku, Sonnet or Opus at a suitable effort and prices switching before you commit. |
 | safi | A small agent harness for local models, built task by task through reviewed PRs. |
