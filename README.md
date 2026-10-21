@@ -31,8 +31,6 @@ More, with write-ups, at [tu2525.github.io](https://tu2525.github.io).
 - **[librespot](https://github.com/librespot-org/librespot)** (the open-source Spotify client library): merged [#1786](https://github.com/librespot-org/librespot/pull/1786) so the core passes on dealer messages that carry plain JSON, and opened [#1804](https://github.com/librespot-org/librespot/pull/1804) documenting Spotify's Jam endpoints.
 - **[spotifast](https://github.com/crmne/spotifast)**: opened [#935](https://github.com/crmne/spotifast/pull/935) to start, share and leave a Jam from the device picker.
 - **[MeasureIt_ARCH](https://github.com/kevancress/MeasureIt_ARCH)** (Blender drafting addon): opened [#309](https://github.com/kevancress/MeasureIt_ARCH/pull/309) fixing dimension edit overrides.
-- **[winget-pkgs](https://github.com/microsoft/winget-pkgs)**: [OpenCrosshair 0.5.6](https://github.com/microsoft/winget-pkgs/pull/449357) is up for review so it can be installed with `winget`.
-- Earlier team work: [SplitVCS](https://github.com/Star-Plus/SplitVCS) (image SHA-1 hashing) and [Atlas-PPS](https://github.com/Pixels-PPS/Atlas-PPS) (backend and chat history).
 
 ## Background
 
